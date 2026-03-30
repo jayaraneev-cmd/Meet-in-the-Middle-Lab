@@ -1,3 +1,8 @@
+#ifndef MEET_HPP
+#define MEET_HPP
+
 #include <string>
 
-std::string meet();
+double findMedian(const std::string& filename);
+
+#endif
